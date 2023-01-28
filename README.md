@@ -8,4 +8,6 @@ This study evaluates the variation in cranial shape and size based on geometric 
 
 We analyzed dorsal and ventral views of the skulls of Platyrrhinus dorsalis (populations assigned to dorsalis and chocoensis) and P. umbratus (populations assigned to nigellus and umbratus).
 
-Four sets of
+We performed analyses in four data sets:
+- Platyrrhinus dorsalis: dorsal (1) and ventral (2) views of the skull.
+- Platyrrhinus umbratus: dorsal (3) and ventral (4) views of the skull. 
