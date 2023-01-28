@@ -12,7 +12,7 @@ We performed analyses in four data sets:
 - Platyrrhinus dorsalis: dorsal (1) and ventral (2) views of the skull.
 - Platyrrhinus umbratus: dorsal (3) and ventral (4) views of the skull. 
 
-For each data set we provide two file:
+For each data set we provide two files:
 1) Script for all the analyses.
 2) RData file containing the tps (landmark coordinates from all specimens) and classifiers (sex and population) files. 
 
